@@ -13,6 +13,7 @@ const authRoutes = require('./routes/auth');
 
 // app
 const app = express();
+//const app = express
 
 // db
 mongoose
