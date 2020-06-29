@@ -12,6 +12,7 @@ const postRoutes = require('./routes/post');
 const authRoutes = require('./routes/auth');
 
 // app
+// app
 const app = express();
 
 // db
